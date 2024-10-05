@@ -1,0 +1,5 @@
+.vscode/*
+saved/*
+output/*
+data/scannet_scenes/*
+data/checkpoints/*
