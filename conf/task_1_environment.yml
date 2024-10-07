@@ -1,4 +1,4 @@
-name: cuo
+name: cuo_task_1
 channels:
   - pytorch
   - nvidia

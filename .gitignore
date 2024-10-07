@@ -3,3 +3,4 @@ saved/*
 output/*
 data/scannet_scenes/*
 data/checkpoints/*
+outputs/*

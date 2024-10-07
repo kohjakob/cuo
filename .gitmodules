@@ -1,3 +1,6 @@
 [submodule "third_party/UnScene3D"]
 	path = third_party/UnScene3D
 	url = https://github.com/RozDavid/UnScene3D.git
+[submodule "third_party/UnScene3D"]
+	path = third_party/PointContrast
+	url = https://github.com/facebookresearch/PointContrast.git

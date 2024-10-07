@@ -1,14 +1,14 @@
-## Setup
+## Setup: Task 1
 ### Environment Setup using `environment.yml`
 
 Create conda environment:
 ```
-conda env create -f conf/environment.yml
+conda env create -f conf/task_1_environment.yml
 ```
 
 Activate the environment:
 ```
-conda activate cuo
+conda activate cuo_task_1
 ```
 
 ### MinkowskiEngine and Detectron2 (e.g. with CUDA 11.6 in /usr/local/cuda-11.6)
@@ -50,3 +50,19 @@ TODO: Feature extraction, umap projection, feature extraction and clustering
 ```
 python3 extract_and_visualize.py
 ```
+
+
+---
+
+## Setup Task 2
+Create conda environment:
+```
+conda env create -f conf/task_2_environment.yml
+```
+
+Activate the environment:
+```
+conda activate cuo_task_2
+```
+
+Follow instructions at PointContrast repo
